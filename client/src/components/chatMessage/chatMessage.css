@@ -1,0 +1,22 @@
+.chatMessage{
+    flex: 3.5;
+}
+
+.chatMessageWrapper{
+    padding: 20px 20px 0 0;
+}
+
+.chatMessageTitle{
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.messageListContainer{
+    padding-left: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    color: grey;
+    margin-top: 150px;
+}
